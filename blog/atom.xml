@@ -8,7 +8,7 @@ layout: feed
 	<link href="http://aryanverma2204.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://aryanverma2204.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/blog</id>
+	<id>http://aryanverma2204.github.io/blog</id>
 	<author>
 		<name>Aryan Verma</name>
 		<email>aryanverma@iitg.ac.in</email>
