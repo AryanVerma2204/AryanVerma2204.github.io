@@ -1,4 +1,4 @@
 name: Aryan Verma
 markdown: kramdown
-theme:cayman
+theme: cayman
 permalink: /blog/:year/:month/:day/:title
