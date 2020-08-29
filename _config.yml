@@ -1,3 +1,4 @@
 name: Aryan Verma
 markdown: kramdown
+remote_theme: benbalter/retlab
 permalink: /blog/:year/:month/:day/:title
