@@ -1,4 +1,3 @@
 name: Aryan Verma
 markdown: kramdown
-theme: cayman
-permalink: /blog/:year/:month/:day/:title
+theme: jekyll-theme-cayman
